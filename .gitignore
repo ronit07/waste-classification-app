@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.h5
+*.pkl
+data/train/
+data/val/
+node_modules/
+build/
+.env
+venv/
+.DS_Store
